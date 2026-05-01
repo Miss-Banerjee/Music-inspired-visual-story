@@ -20,3 +20,6 @@
 ```
 
 ## 📌 PREVIEW
+<img width="1199" height="1312" alt="Image" src="https://github.com/user-attachments/assets/8af3a3d8-c73e-414c-9069-6448d172c2d9" />
+
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/b9afd452-c86a-476a-8203-1b8112002786" />
